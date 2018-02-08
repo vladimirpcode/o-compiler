@@ -1,7 +1,7 @@
 package otext
 
 /*Драйвер исходного текста*/
-
+//новый коммент
 const (
 	chSpace = ' '
 	chTab   = byte(9)
